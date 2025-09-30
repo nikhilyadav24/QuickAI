@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
     </div>
     <p className="pt-4 text-center text-xs md:text-sm pb-5">
-        Mde with ❤️ by Nikhil Yadav
+        Made with ❤️ by Nikhil Yadav
     </p>
 </footer>
   )
